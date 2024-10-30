@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SupermarketEF": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
